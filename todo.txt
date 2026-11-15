@@ -1,0 +1,315 @@
+# MASTER PROMPT — BALKON L'AOUINA | PREMIUM RESTAURANT WEBSITE
+
+Act as an elite digital creative agency combining the expertise of an award-winning UI/UX designer, senior frontend engineer, brand strategist, motion designer and luxury hospitality marketing specialist.
+
+Your mission is to design and develop an extraordinary, premium, visually stunning and production-ready website for:
+
+**BRAND: BALKON**
+**LOCATION: L'Aouina, Tunis, Tunisia**
+**INDUSTRY: Restaurant / Café / Lounge / Hospitality**
+
+The result must feel like a world-class hospitality brand, not a generic restaurant template.
+
+## 1. CREATIVE DIRECTION & BRAND IDENTITY
+
+Create a sophisticated visual identity inspired by premium international restaurants, contemporary Mediterranean hospitality and luxury lifestyle brands.
+
+Visual atmosphere:
+- Elegant, warm, sophisticated and memorable.
+- Cinematic photography.
+- Beautiful editorial typography.
+- Premium spacing and refined compositions.
+- Strong visual hierarchy.
+- Subtle luxury details.
+
+Color palette:
+- Deep charcoal: #171717
+- Warm ivory: #F5F0E8
+- Champagne gold: #C5A46D
+- Warm beige: #D8C8AF
+- Soft black: #101010
+
+Use gold only as an elegant accent, never excessively.
+
+Typography:
+- Elegant serif typography for headlines.
+- Modern sans-serif typography for body text.
+- Large editorial headings.
+- Perfect readability and balanced typography.
+
+## 2. HERO SECTION — FIRST IMPRESSION
+
+Create an exceptional full-screen hero section.
+
+Requirements:
+- Large cinematic background photograph of the actual establishment or an appropriate premium hospitality atmosphere.
+- Dark gradient overlay for readability.
+- Elegant BALKON logo/wordmark.
+- Main headline: "MORE THAN A PLACE. AN EXPERIENCE."
+- Supporting text: "Discover a unique atmosphere, exceptional moments and unforgettable experiences at Balkon."
+- Primary CTA: "Discover Our Menu"
+- Secondary CTA: "Reserve Your Table"
+- Elegant scroll indicator.
+- Smooth entrance animations.
+
+The hero must immediately communicate quality, exclusivity and atmosphere.
+
+## 3. NAVIGATION
+
+Create a sophisticated transparent navbar that becomes a solid dark background when scrolling.
+
+Navigation:
+- Home
+- About
+- Menu
+- Gallery
+- Experience
+- Contact
+
+Include:
+- Logo on the left.
+- Navigation links in the center.
+- Reservation button on the right.
+- Mobile hamburger menu with an elegant animated transition.
+- Sticky navigation.
+- Smooth scrolling.
+
+## 4. ABOUT BALKON
+
+Create an editorial storytelling section.
+
+Headline:
+"A PLACE TO CONNECT. A SPACE TO ENJOY."
+
+Present Balkon as a destination where gastronomy, atmosphere and memorable moments come together.
+
+Design:
+- Asymmetrical image composition.
+- Beautiful restaurant photography.
+- Elegant text blocks.
+- Subtle decorative elements.
+- Scroll-triggered animations.
+
+Do not invent the restaurant's history, awards or achievements. Use editable placeholder content where information is missing.
+
+## 5. MENU EXPERIENCE
+
+Build a visually sophisticated digital menu.
+
+Categories:
+- Coffee & Hot Drinks
+- Cold Drinks
+- Breakfast
+- Food & Specialties
+- Desserts
+- Other categories based on the actual menu.
+
+Requirements:
+- Premium food photography.
+- Elegant menu cards.
+- Category navigation.
+- Product name and description.
+- Actual prices only when provided.
+- Responsive layout.
+- Smooth hover interactions.
+
+Add a CTA: "Explore Full Menu".
+
+Menu content must be easy to update.
+
+## 6. GALLERY — VISUAL STORYTELLING
+
+Create an immersive photographic gallery.
+
+Include:
+- Interior architecture.
+- Outdoor seating.
+- Food presentation.
+- Drinks.
+- Details and decoration.
+- Lifestyle and atmosphere.
+
+Use:
+- Asymmetrical masonry grid.
+- High-quality photography.
+- Image hover effects.
+- Fullscreen lightbox.
+- Smooth transitions.
+
+Use authentic Balkon photographs when available. Never present stock photographs as actual photographs of the establishment.
+
+## 7. EXPERIENCE SECTION
+
+Create an attractive section highlighting the experience of visiting Balkon.
+
+Focus on:
+- Atmosphere.
+- Food and drinks.
+- Comfort.
+- Social moments.
+- Hospitality.
+
+Use premium imagery and concise editorial copy.
+
+Avoid unsupported claims.
+
+## 8. RESERVATION SYSTEM
+
+Create a professional reservation interface.
+
+Fields:
+- Full name.
+- Phone number.
+- Email (optional).
+- Number of guests.
+- Reservation date.
+- Reservation time.
+- Special requests.
+
+Features:
+- Form validation.
+- Success and error states.
+- Mobile-friendly interface.
+- WhatsApp reservation option.
+- Clear confirmation feedback.
+
+Important: Do not simulate a confirmed reservation. Connect the form to a real backend or reservation service before claiming that a booking is confirmed.
+
+## 9. CONTACT & LOCATION
+
+Create a premium contact section.
+
+Include:
+- Establishment name.
+- Actual address.
+- Phone number.
+- WhatsApp button.
+- Google Maps integration.
+- Opening hours.
+- Instagram link.
+- Contact form.
+
+Use verified business information only.
+
+## 10. FOOTER
+
+Create a sophisticated footer containing:
+- BALKON logo.
+- Short brand description.
+- Navigation.
+- Contact details.
+- Social media links.
+- Opening hours.
+- Copyright.
+
+Use a dark background and refined gold accents.
+
+## 11. ADVANCED ANIMATIONS
+
+Use Framer Motion for:
+- Smooth page transitions.
+- Scroll reveal animations.
+- Staggered text entrances.
+- Image reveal effects.
+- Elegant hover interactions.
+- Navbar transitions.
+- Mobile menu animation.
+- Subtle parallax effects.
+
+Animations must be smooth, lightweight and purposeful.
+
+Respect prefers-reduced-motion accessibility settings.
+
+Avoid excessive animations that negatively affect performance.
+
+## 12. TECHNICAL STACK
+
+Preferred technologies:
+- React + TypeScript.
+- Vite.
+- Tailwind CSS.
+- Framer Motion.
+- Lucide React icons.
+- React Router if multiple pages are required.
+
+Architecture:
+- Reusable components.
+- Clean folder structure.
+- Maintainable code.
+- Reusable design tokens.
+- Modular sections.
+- Consistent naming conventions.
+
+## 13. RESPONSIVE DESIGN
+
+Perfectly optimize for:
+- Mobile: 360px–480px.
+- Tablet: 768px–1024px.
+- Desktop: 1280px–1920px.
+- Large displays: 1920px+.
+
+No horizontal overflow.
+No broken layouts.
+No overlapping text.
+No distorted images.
+
+Mobile must feel like a native premium hospitality experience.
+
+## 14. SEO & PERFORMANCE
+
+Implement:
+- Semantic HTML5.
+- SEO-friendly page titles.
+- Meta descriptions.
+- Open Graph metadata.
+- Local SEO for Balkon, L'Aouina, Tunis.
+- Image optimization.
+- Lazy loading.
+- Accessible alt attributes.
+- Sitemap and robots.txt.
+- Fast loading.
+- Core Web Vitals optimization.
+
+## 15. FINAL QUALITY REQUIREMENTS
+
+The website must:
+- Look exceptionally professional.
+- Have a coherent and recognizable identity.
+- Use real and high-quality imagery.
+- Have no generic template appearance.
+- Contain no broken links.
+- Have functional buttons and navigation.
+- Have working contact and reservation flows.
+- Be fully responsive.
+- Be accessible.
+- Be optimized for production.
+
+Do not use emojis as design elements.
+Do not invent business information.
+Do not use random gradients everywhere.
+Do not create empty sections.
+Do not leave buttons without functionality.
+Do not use generic dashboard-style cards.
+
+## 16. DEVELOPMENT WORKFLOW
+
+Before coding:
+1. Analyze the project structure.
+2. Establish the visual design system.
+3. Plan all sections.
+4. Identify missing business information and assets.
+
+Then:
+1. Build the complete frontend.
+2. Implement all interactions.
+3. Optimize responsiveness.
+4. Test every page and button.
+5. Fix all errors.
+6. Prepare the production build.
+
+Do not stop after creating a hero section or a basic prototype.
+
+Deliver a complete, polished, premium, production-ready BALKON website.
+
+**FINAL CREATIVE GOAL:**
+Make visitors feel the atmosphere of Balkon before they even enter the establishment. The website should communicate emotion, elegance, quality and a memorable hospitality experience.
